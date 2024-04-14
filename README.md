@@ -1,2 +1,2 @@
-# Formul-rioCadastro
+# FormularioCadastro
 Formulário de Cadastro em PHP
